@@ -1,0 +1,59 @@
+Quiz title: Quiz 7 extra questions
+Quiz description: Delve deeper into the world of genetics by understanding the role of statistics in data interpretation and exploring the intricacies of Mendelian inheritance.
+
+Title: P-Values in Hypothesis Testing
+Points: 1
+2. A p-value of 0.05 in a scientific study typically means:
+... A p-value of 0.05 means that there is a 5% chance of observing the given results, or more extreme results, if the null hypothesis is true. It is a common threshold for statistical significance.
+a) There is definitely a difference between comparison groups.
+*b) There is a 5% chance of getting a test statistic at least as big as observed in your data if the null hypothesis is true
+c) There is a 95% chance that the alternative hypothesis is true
+d) The results are never statistically significant
+
+Title: Multiple Answer - False Positives and Negatives
+Points: 1
+4. In the context of diagnostic tests (e.g., a COVID-19 or breast cancer test), what consequences can false positives and false negatives have?
+... False positives can lead to unnecessary treatment or distress, while false negatives can result in a lack of treatment for a disease that is actually present.
+[*] False positives can lead to unnecessary treatment or emotional distress
+[ ] False negatives can lead to unnecessary treatment or emotional distress
+[ ] False positives are always better than false negatives.
+[*] False negatives can result in a lack of treatment for a disease that is present
+[ ] False positive can result in a lack of treatment for a disease that is present
+[ ] False negatives are always better than false positives.
+[ ] False positives and false negatives are not a concern in diagnostic tests since they are rare and we can never fully eliminate error.
+
+Title: Complete Dominance Basis
+Points: 1
+6. At the cellular level, what does complete dominance in Mendelian genetics typically reflect?
+... Complete dominance usually stems from the functionality of the gene product, where one allele produces a functional protein, while the other does not.
+*a) The presence of one functional allele compensates for a non-functional allele.
+b) Both alleles produce functional proteins in equal quantities.
+c) The dominant allele suppresses the expression of other genes.
+d) Both alleles are necessary for a complete phenotypic expression.
+
+Title: ABO Blood Type System
+Points: 1
+7. In the ABO blood group system, which phenomenon explains the simultaneous expression of both A and B antigens in individuals?
+... Codominance allows for both alleles to express their phenotypes fully when present.
+*a) Codominance
+b) Incomplete dominance
+c) Epistasis
+d) Pleiotropy
+
+Title: Impacts of Lethal Alleles
+Points: 1
+8. How do lethal alleles influence Mendelian ratios in genetic crosses?
+... Lethal alleles can cause death when homozygous, leading to deviations from the expected Mendelian phenotypic ratios.
+*a) They can cause death in homozygous individuals, leading to a lack of that genotype in the offspring.
+b) They prevent any form of genetic crossing.
+c) They introduce mutations into the genetic code.
+d) They always result in a dominant phenotype.
+
+Title: Epistasis and Phenotypic Outcomes
+Points: 1
+9. How does epistasis influence the phenotypic outcomes of genetic crosses?
+... Epistasis occurs when the alleles of one gene mask or modify the expression of another gene, thereby influencing the phenotypic outcomes of genetic crosses.
+*a) It can mask or modify the expression of another gene, altering expected phenotypic results.
+b) It increases the mutation rate in the offspring.
+c) It leads to incomplete dominance of one gene over another.
+d) It ensures that Mendelian ratios are always maintained.
