@@ -39,6 +39,9 @@ def main():
         It can be found at [https://github.com/gpoore/text2qti](https://github.com/gpoore/text2qti) 
         and is distributed under the BSD 3-Clause License.
     """)
+    st.markdown("""
+        This app is managed by Keefe Reuther - [https://reutherlab.biosci.ucsd.edu/](https://reutherlab.biosci.ucsd.edu/)
+    """)
 
 if __name__ == "__main__":
     main()
