@@ -1,0 +1,143 @@
+Quiz title: Introduction to Cell Biology – Quiz 2
+Quiz description: An examination of the key concepts in cell biology, including cell types, membrane structure, transport mechanisms, energy metabolism, and enzymatic reactions.
+
+Title: Learn with integrity
+Points: 1
+1. I agree to complete this quiz without the aid of others or AI. I agree not to discuss questions and answers of the quiz until the quiz key is posted. Anything otherwise is a breach of my Academic Integrity and subject to the policies of the University.
+*a) I agree
+b) I disagree
+
+Title: Comparing Prokaryotic and Eukaryotic Cells
+Points: 1
+2. Which of the following statements best distinguishes eukaryotic cells from prokaryotic cells?
+... Eukaryotic cells contain membrane-bound organelles, including a nucleus, while prokaryotic cells lack these structures.
+a) Only eukaryotic cells have a plasma membrane
+*b) Eukaryotic cells contain membrane-bound organelles, while prokaryotic cells do not
+c) Prokaryotic cells contain more DNA than eukaryotic cells
+d) Only prokaryotic cells contain ribosomes
+
+Title: Phospholipids in Cell Membranes
+Points: 1
+3. How do the polar and nonpolar ends of phospholipids interact in water to create the bilayer structure of cell membranes?
+... The polar (hydrophilic) heads face outward, interacting with water, while the nonpolar (hydrophobic) tails face inward, away from water, forming a bilayer.
+#a) Polar heads face outward, nonpolar tails face inward
+b) Polar heads face inward, nonpolar tails face outward
+c) Polar and nonpolar ends mix randomly
+d) Polar ends repel each other, forming a single layer
+
+Title: Diffusion and Entropy
+Points: 1
+4. Why does diffusion not require work and lead to passive transport?
+... Diffusion is the movement of molecules from an area of high concentration to low, driven by random motion, increasing entropy. It doesn't require energy input, aligning with the second law of thermodynamics.
+*a) Diffusion increases entropy and is driven by random motion
+b) Diffusion requires energy to move molecules against concentration gradients
+c) Diffusion decreases entropy by organizing molecules
+d) Diffusion is driven by active transport proteins
+
+Title: Tonicity and Animal Cells
+Points: 1
+5. What would happen to an animal cell if placed in a hypertonic solution?
+... In a hypertonic solution, the solute concentration is higher outside the cell, causing water to move out of the cell, leading to cell shrinkage or crenation.
+*a) The cell would shrink due to water loss
+b) The cell would swell due to water intake
+c) The cell would remain unchanged in size
+d) The cell would undergo lysis
+
+Title: Functions of Smooth ER and Rough ER
+Points: 1
+6. How do the functions of smooth endoplasmic reticulum (ER) and rough ER differ in a eukaryotic cell?
+... Smooth ER is involved in lipid synthesis and detoxification, while rough ER, studded with ribosomes, is involved in protein synthesis and processing.
+*a) Smooth ER synthesizes lipids; Rough ER synthesizes proteins
+b) Smooth ER synthesizes proteins; Rough ER synthesizes lipids
+c) Both Smooth and Rough ER are primarily involved in protein synthesis
+d) Both Smooth and Rough ER are primarily involved in lipid synthesis
+
+Title: Origins of Chloroplasts and Mitochondria
+Points: 1
+7. According to the endosymbiotic theory, how did chloroplasts and mitochondria originate?
+... The endosymbiotic theory proposes that chloroplasts and mitochondria originated from free-living bacteria that were engulfed by ancestral eukaryotic cells.
+*a) They originated from free-living bacteria joining with ancestral eukaryotic cells
+b) They originated from viral infections
+c) They were synthesized within the host cell
+d) They developed independently in eukaryotic cells just like the nucleus.
+
+Title: Osmosis and Water Concentration
+Points: 1
+8. How can you predict the movement of water based on solute concentration?
+... Water moves from areas of low solute concentration (high water concentration) to areas of high solute concentration (low water concentration) by osmosis.
+*a) Water moves from low solute to high solute concentration
+b) Water moves from high solute to low solute concentration
+c) Water moves randomly without regard to solute concentration
+d) Water movement is determined by temperature, not solute concentration
+
+Title: Facilitated Diffusion vs. Active Transport
+Points: 1
+9. What distinguishes facilitated diffusion from active transport in cell membrane transport?
+... Facilitated diffusion is passive and moves substances down their concentration gradient without energy input, while active transport requires energy to move substances against their gradient.
+*a) Facilitated diffusion is passive; Active transport requires energy
+b) Facilitated diffusion requires energy; Active transport is passive
+c) Both facilitated diffusion and active transport require energy
+d) Both facilitated diffusion and active transport are passive processes
+
+Title: Bound vs. Free Ribosomes
+Points: 1
+10. How do bound and free ribosomes differ in terms of the destination of the proteins they synthesize?
+... Bound ribosomes synthesize proteins that are incorporated into membranes or exported from the cell, while free ribosomes synthesize proteins that function within the cytosol.
+*a) Bound ribosomes synthesize membrane or exported proteins; Free ribosomes synthesize proteins destined for the cytoplasm
+b) Bound ribosomes synthesize proteins destined for the cytoplasm; Free ribosomes synthesize membrane proteins
+c) Both bound and free ribosomes synthesize exported proteins
+d) Both bound and free ribosomes synthesize proteins destined for the cytoplasm
+
+Title: Lysosomal Storage Disease
+Points: 1
+11. Lysosomal storage diseases are often the result of a specific enzyme not working, leading to an inability to break down and recycle a cellular waste product. Which of the following scenarios would likely be associated with a lysosomal storage disease?
+... Lysosomal storage diseases occur when there is a deficiency in an enzyme needed to break down a specific waste product, leading to its accumulation within lysosomes. This can result in cell damage and various symptoms.
+a) A deficiency in an enzyme required in the gut for sucrose digestion.
+b) An overproduction of a hormone regulating blood pressure
+*c) A deficiency in an enzyme required to break down a specific cellular waste product, leading to its accumulation.
+d) An overproduction of a gene responsible for cell growth
+
+Title: Regulation of Exergonic Reactions
+Points: 1
+12. Why don't exergonic reactions in our bodies happen quickly and spontaneously in a totally unregulated manner?
+... Exergonic reactions are thermodynamically favorable and release energy, but in biological systems, they are often controlled by enzymes and other regulatory mechanisms to ensure proper timing and coordination within metabolic pathways.
+*a) They are prevented by transition states and high activation energies, that can only be lowered with enzymes.
+b) They require energy input to proceed. Endergonic reactions are spontaneous.
+c) They don't ever increase entropy, so it would require lots of work to get them going.
+d) They are inhibited by high temperatures
+
+Title: Reaction Rates and Temperature or Substrate Concentration
+Points: 1
+13. What happens to reaction rates when you change the temperature or concentration of substrate/reactants?
+... Increasing the temperature generally accelerates reaction rates by providing more kinetic energy to the molecules. Increasing the concentration of substrate or reactants often enhances the reaction rate by increasing the frequency of collisions between molecules.
+*a) Increasing temperature and substrate/reactant concentration generally accelerates reaction rates
+b) Increasing temperature slows down reaction rates; increasing substrate/reactant concentration accelerates reaction rates
+c) Increasing temperature accelerates reaction rates; increasing substrate/reactant concentration slows down reaction rates
+d) Increasing temperature and substrate/reactant concentration generally slows down reaction rates
+
+Title: Fatty Acid Tails of Phospholipids and Water Interaction
+Points: 1
+14. Why do the fatty acid tails of phospholipids prefer not to interact with water?
+... The fatty acid tails of phospholipids are hydrophobic (nonpolar) and therefore tend to avoid interaction with water, which is a polar molecule. In a bilayer, they orient inward, away from the water, minimizing their contact with it.
+*a) They are hydrophobic and avoid interaction with polar water molecules
+b) They form hydrogen bonds with water
+c) They are hydrophilic and attract water molecules
+d) They dissolve in water, leading to membrane disintegration
+
+Title: Essay - ATP's Role in Metabolic Reactions
+Points: 2
+15. Explain how ATP functions in both anabolic and catabolic metabolic reactions.
+... ATP serves as the primary energy currency in cells, linking catabolic reactions that release energy with anabolic reactions that consume energy. Its hydrolysis provides the energy needed for various cellular functions, driving both the synthesis and breakdown of molecules.
+_________
+
+Title: Essay - Endomembrane System Pathway
+Points: 2
+16. Describe the pathway a single amino acid might take through the endomembrane system if it was destined to travel the blood stream throughout the body. Begin your story at the ribosome and end it at the plasma membrane.
+... The endomembrane system is a complex network within eukaryotic cells, involving the synthesis, modification, and transport of proteins. The pathway includes the smooth ER for lipid synthesis, rough ER for protein synthesis, the Golgi apparatus for modification, and lysosomes for degradation.
+_________
+
+Title: Personal Reflection on Learning
+Points: 2
+17. Share one thing you learned this week that wasn't directly mentioned in this quiz. Be specific in your explanation, and teach me about this concept or idea as if I were a fellow student.
+... Reflecting on what you've learned and teaching it to others can deepen your understanding and retention. Whether it's a novel concept, a fascinating fact, or a new perspective, I'm eager to learn from you!
+_________
