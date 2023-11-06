@@ -1,4 +1,5 @@
 import streamlit as st
+import text2qti
 import subprocess
 import os
 
